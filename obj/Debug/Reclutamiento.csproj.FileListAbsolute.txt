@@ -1,0 +1,17 @@
+C:\Users\ALIAH\Desktop\Programacion\C#\Reclutamiento\bin\Debug\Reclutamiento.exe.config
+C:\Users\ALIAH\Desktop\Programacion\C#\Reclutamiento\bin\Debug\Reclutamiento.exe
+C:\Users\ALIAH\Desktop\Programacion\C#\Reclutamiento\bin\Debug\Reclutamiento.pdb
+C:\Users\ALIAH\Desktop\Programacion\C#\Reclutamiento\obj\Debug\Reclutamiento.csproj.AssemblyReference.cache
+C:\Users\ALIAH\Desktop\Programacion\C#\Reclutamiento\obj\Debug\Reclutamiento.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALIAH\Desktop\Programacion\C#\Reclutamiento\obj\Debug\Reclutamiento.csproj.CoreCompileInputs.cache
+C:\Users\ALIAH\Desktop\Programacion\C#\Reclutamiento\obj\Debug\Reclutamiento.exe
+C:\Users\ALIAH\Desktop\Programacion\C#\Reclutamiento\obj\Debug\Reclutamiento.pdb
+C:\Users\ALIAH\Desktop\Programacion\C#\Reclutamiento\bin\Debug\Rebex.Common.dll
+C:\Users\ALIAH\Desktop\Programacion\C#\Reclutamiento\bin\Debug\Rebex.Mail.dll
+C:\Users\ALIAH\Desktop\Programacion\C#\Reclutamiento\bin\Debug\Rebex.Networking.dll
+C:\Users\ALIAH\Desktop\Programacion\C#\Reclutamiento\bin\Debug\Rebex.Smtp.dll
+C:\Users\ALIAH\Desktop\Programacion\C#\Reclutamiento\bin\Debug\Rebex.Common.xml
+C:\Users\ALIAH\Desktop\Programacion\C#\Reclutamiento\bin\Debug\Rebex.Mail.xml
+C:\Users\ALIAH\Desktop\Programacion\C#\Reclutamiento\bin\Debug\Rebex.Networking.xml
+C:\Users\ALIAH\Desktop\Programacion\C#\Reclutamiento\bin\Debug\Rebex.Smtp.xml
+C:\Users\ALIAH\Desktop\Programacion\C#\Reclutamiento\obj\Debug\Reclutamiento.csproj.CopyComplete
